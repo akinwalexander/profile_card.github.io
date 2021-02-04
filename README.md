@@ -1,2 +1,1 @@
-- Link Website
-- [Deployment](https://vizaanandyaa.github.io/profile_card.github.io/)
+- Link Website [Deployment](https://vizaanandyaa.github.io/profile_card.github.io/)
